@@ -31,7 +31,7 @@ A slack notiification for nagios that removes the messages once the service clea
 
 ## What this is
 
-This is currently a working proof-of-concept, which pushes messaages to slack in the same text form as the default emails that are sent by icinga (except for a tiny bit of bold text)
+This is currently a working proof-of-concept, which pushes nagios notifications to slack (using the same message format default emails that are sent by icinga (except for a tiny bit of bold text))
 
 ## Install and use
 
