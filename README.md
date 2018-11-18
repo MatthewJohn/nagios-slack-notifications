@@ -39,7 +39,8 @@ This is currently a working proof-of-concept, which pushes messaages to slack in
 
 On the nagios server, run:
 
-   pip install SlackClient
+
+    pip install SlackClient
 
 
 ### Install scripts
